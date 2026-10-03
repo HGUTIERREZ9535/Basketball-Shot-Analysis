@@ -81,7 +81,7 @@ Shot type appears to be associated with make percentage. Dunks had one of the hi
 
 This represents a large difference in make percentage between the two shot types, suggesting that shot type is an important factor associated with shooting success.
 
-![Shot Type](visualizations/shot_type.png)
+![Shot Type](https://github.com/HGUTIERREZ9535/Basketball-Shot-Analysis/blob/8fc09454c003516fd58f5fc2300ca366454788be/shot_type.png)
 
 ---
 
