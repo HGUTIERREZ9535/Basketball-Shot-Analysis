@@ -71,7 +71,7 @@ The number of shot attempts in each category was reviewed before interpreting th
 
 Based on this analysis, shorter shot distances tend to have higher make percentages. Shots taken within **0–5 ft** had a **63.55%** make percentage, compared with only **21.20%** for shots from **30+ ft**.
 
-![Shot Distance](visualizations/shot_distance.png)
+![Shot Distance]([visualizations/shot_distance.png](https://github.com/HGUTIERREZ9535/OKC-Thunder-Shot-Analysis/blob/9b987505f065fca2aef5e3b03c3680e847247cc0/shot_distance.png))
 
 ---
 
