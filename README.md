@@ -91,7 +91,7 @@ There is a clear association between shot-clock time and make percentage. Shots 
 
 Overall, having more time on the shot clock is associated with a higher make percentage.
 
-![Shot Clock](visualizations/shotclock.png)
+![Shot Clock](https://github.com/HGUTIERREZ9535/Basketball-Shot-Analysis/blob/bb8f46748420c8e26598d5da665f3156bc602721/shot_clock.png)
 
 ---
 
