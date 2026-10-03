@@ -1,4 +1,4 @@
-# OKC Thunder Shot Analysis 🏀
+# Basketball Shot Analysis 🏀
 
 ## 1. Introduction
 
