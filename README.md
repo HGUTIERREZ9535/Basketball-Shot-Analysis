@@ -131,7 +131,7 @@ Shot distance and shot type were analyzed together to determine whether the rela
 
 The grouped bar chart allows the make percentage of different shot types to be compared across shot-distance categories.
 
-![Shot Type and Distance](visualizations/shottype_distance.png)
+![Shot Type and Distance](https://github.com/HGUTIERREZ9535/Basketball-Shot-Analysis/blob/8aba66f399ef39fa2b43499a861891ba814ab6d9/Distance_shottype.png)
 
 ---
 
