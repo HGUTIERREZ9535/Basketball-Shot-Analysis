@@ -121,7 +121,7 @@ There is a clear association between shot-clock time and make percentage. Make p
 
 In addition, non-contested shots consistently have higher make percentages than contested shots across the shot-clock categories.
 
-![Shot Clock and Contested](visualizations/shotclock_contested.png)
+![Shot Clock and Contested](https://github.com/HGUTIERREZ9535/Basketball-Shot-Analysis/blob/e856b9a671bebb789383907cfc3b7cfe05cecd31/Shotclock_Contested.png)
 
 ---
 
