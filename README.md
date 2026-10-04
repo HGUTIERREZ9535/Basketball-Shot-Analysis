@@ -101,7 +101,7 @@ There is a clear pattern between shot distance, contest status, and make percent
 
 This suggests that both shot distance and contest status are associated with shooting success.
 
-![Distance and Contested](visualizations/distance_contested.png)
+![Distance and Contested](https://github.com/HGUTIERREZ9535/Basketball-Shot-Analysis/blob/aa13e83cc7f6d0a4732be7ed74e8010d812812e6/Distance_Contested.png)
 
 ---
 
