@@ -105,16 +105,6 @@ This suggests that both shot distance and contest status are associated with sho
 
 ---
 
-## Contested vs. Non-Contested Shots
-
-Non-contested shots had a **62.09%** make percentage, compared with **43.83%** for contested shots.
-
-Both groups had large sample sizes, making this one of the clearer patterns in the analysis.
-
-![Contested vs Non-Contested](visualizations/contested.png)
-
----
-
 ## Shot Clock × Contested
 
 There is a clear association between shot-clock time and make percentage. Make percentage generally increases as the amount of time remaining on the shot clock increases.
